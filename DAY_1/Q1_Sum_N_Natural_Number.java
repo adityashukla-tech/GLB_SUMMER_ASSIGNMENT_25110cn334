@@ -1,4 +1,4 @@
-package summer_assignments;
+package summer_assignments.DAY_1;
 import java.util.*;
 import java.util.Scanner;
 public class Q1_Sum_N_Natural_Number {
