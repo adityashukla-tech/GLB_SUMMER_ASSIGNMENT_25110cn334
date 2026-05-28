@@ -1,4 +1,4 @@
-package summer_assignments;
+package summer_assignments.DAY_4;
 import java.util.*;
 import java.math.*;
 public class Q15_Armstrong {
