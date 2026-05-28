@@ -1,4 +1,4 @@
-package summer_assignments;
+package summer_assignments.DAY_2;
 import java.util.*;
 public class Q5_Sum_digits {
 public static void main(String[] args){
