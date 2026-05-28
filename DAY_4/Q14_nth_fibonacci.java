@@ -1,4 +1,4 @@
-package summer_assignments;
+package summer_assignments.DAY_4;
 import java.util.*;
 public class Q14_nth_fibonacci {
     public static void main(String[] args){
