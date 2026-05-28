@@ -13,7 +13,7 @@ public class Q10_Range_prime {
             num1=num2;
             num2=temp;
         }
-        boolean primeFoundAtLeastOnce=false;
+        boolean Found=false;
         for (j = num1; j <= num2; j++) {
             if(j<=1){
                 continue;
@@ -27,10 +27,10 @@ public class Q10_Range_prime {
             }
             if(flag==0) {
                 System.out.print(j + " ");
-                primeFoundAtLeastOnce=true;
+                Found=true;
             }
         }
-        if(!primeFoundAtLeastOnce){System.out.print("None Found");}
+        if(!Found){System.out.print("None Found");}
         sc.close();
     }
 }
