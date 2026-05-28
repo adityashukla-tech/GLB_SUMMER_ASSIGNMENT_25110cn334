@@ -1,4 +1,4 @@
-package summer_assignments;
+package summer_assignments.DAY_3;
 import java.util.*;
 public class Q11_GCD {
     public static void main(String[] args){
