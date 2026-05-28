@@ -1,4 +1,4 @@
-package summer_assignments;
+package summer_assignments.DAY_4;
 import java.util.*;
 public class Q16_range_armstrong {
     public static void main(String[] args){
