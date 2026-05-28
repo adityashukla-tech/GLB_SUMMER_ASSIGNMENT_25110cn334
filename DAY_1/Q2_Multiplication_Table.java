@@ -1,4 +1,4 @@
-package summer_assignments;
+package summer_assignments.DAY_1;
 import java.util.*;
 public class Q2_Multiplication_Table {
 public static void main(String[] args){
