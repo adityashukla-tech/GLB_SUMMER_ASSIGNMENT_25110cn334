@@ -1,4 +1,4 @@
-package summer_assignments;
+package summer_assignments.DAY_2;
 import java.util.*;
 public class Q7_product_digits {
     public static void main(String[] args){
